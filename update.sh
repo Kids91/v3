@@ -37,7 +37,7 @@ Label: KidsDev Repo
 Suite: stable
 Version: 3.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: KidsDev v3 Repository
 Date: $(date -u +"%a, %d %b %Y %H:%M:%S +0000")
