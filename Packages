@@ -26,13 +26,13 @@ Architecture: iphoneos-arm
 Maintainer: Dev by Cường Trần
 Installed-Size: 6096
 Pre-Depends: firmware (>= 12.0), firmware (<< 16.0), com.ex.substitute, me.jjolano.fmwk.hookkit (1.0.17~14.5), me.jjolano.hkmodule.substitute
-Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, com.rpetrich.rocketbootstrap (1.1.0~libhooker2), preferenceloader, ws.hbang.common, ws.hbang.newterm2
+Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.rpetrich.rocketbootstrap (1.1.0~libhooker2), preferenceloader, ws.hbang.common, ws.hbang.newterm2
 Conflicts: firmware (<< 12.0), firmware (>= 16.0)
 Filename: ./debs/com.kidsautopro.kidsauto_24.12.22~10+rootfull_iphoneos-arm.deb
-Size: 925994
-MD5sum: 8427e8734869e36493bc0785ad074216
-SHA1: c9e786e785ca9dac8bab83a854b7459e9a17d09a
-SHA256: c07999b5007c95a6712d11162f1020e45472bbf817fbf3b4cff91dafe0f8be26
+Size: 925700
+MD5sum: a78360f1ef743631828795efe92c8afc
+SHA1: a5cf0d93094ac89b18b1c6b2d0247634027e7de6
+SHA256: a11327de48b2883b9c53d0747ec1897c3336243ca9e99c0e96eb5797d6fdf88d
 Section: System
 Description: KidsAuto iOS v3, Support from version 12.x - 15.8.x
 Tag: role::hacker
