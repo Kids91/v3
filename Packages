@@ -39,6 +39,24 @@ Tag: role::hacker
 Author: KidsAuto - Cường Trần
 Name: KidsAuto v3
 
+Package: com.opa334.libsandy
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 312
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.4_iphoneos-arm.deb
+Size: 20546
+MD5sum: 25e8918d912d4ece138a221b6d5731a6
+SHA1: 970b4d73c793ae3561abac288347922818b9b0fe
+SHA256: e80b6573fec6cbe3d30274683d2df7692642c70546fe3321247328c97058d010
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
 Package: com.rpetrich.rocketbootstrap
 Version: 1.1.0~libhooker2
 Architecture: iphoneos-arm
