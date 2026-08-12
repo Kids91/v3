@@ -21,34 +21,18 @@ Author: comex <comexk+da@gmail.com>
 Name: Substitute
 
 Package: com.kidsautopro.kidsauto
-Version: 24.12.22~1-1+rootful
-Architecture: iphoneos-arm
-Maintainer: Dev by Cường Trần
-Installed-Size: 8076
-Filename: ./debs/com.kidsautopro.kidsauto_24.12.22~1+rootfull_iphoneos-arm.deb
-Size: 1294816
-MD5sum: c1d6198e07cacfd92e9a33b9d06f4ecf
-SHA1: 0cd7b0ac1a5065bc8ed29954ce94487772ddaf02
-SHA256: f742ce99315ca728da2d427054a99153f99551893e14d2dd8b7f80810355f24e
-Section: Tweaks
-Description: KidsAuto Pro iOS, Support from version 12.x - 15.8.x
-Tag: role::hacker
-Author: KidsAuto - Cường Trần
-Name: KidsAuto v3
-
-Package: com.kidsautopro.kidsauto
-Version: 24.12.22~9+rootfull
+Version: 24.12.22~10+rootfull
 Architecture: iphoneos-arm
 Maintainer: Dev by Cường Trần
 Installed-Size: 6096
-Pre-Depends: firmware (>= 12.0), firmware (<< 16.0), com.ex.substitute, me.jjolano.fmwk.hookkit (1.0.17), me.jjolano.hkmodule.substitute
-Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, com.rpetrich.rocketbootstrap (1.1.0), preferenceloader, ws.hbang.common, ws.hbang.newterm2
+Pre-Depends: firmware (>= 12.0), firmware (<< 16.0), com.ex.substitute, me.jjolano.fmwk.hookkit (1.0.17~14.5), me.jjolano.hkmodule.substitute
+Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, com.rpetrich.rocketbootstrap (1.1.0~libhooker2), preferenceloader, ws.hbang.common, ws.hbang.newterm2
 Conflicts: firmware (<< 12.0), firmware (>= 16.0)
-Filename: ./debs/com.kidsautopro.kidsauto_24.12.22~9+rootfull_iphoneos-arm.deb
-Size: 927848
-MD5sum: 575ac5ae01ae17d111e89367eb7fbcf8
-SHA1: a8be2f39696b5492a0e65b1aeceaf46fa02dfa22
-SHA256: c107d310dfaa868f15d9bfb1a8f5fdbe732213a7ab56af19c79d21a4b70b63a8
+Filename: ./debs/com.kidsautopro.kidsauto_24.12.22~10+rootfull_iphoneos-arm.deb
+Size: 925994
+MD5sum: 8427e8734869e36493bc0785ad074216
+SHA1: c9e786e785ca9dac8bab83a854b7459e9a17d09a
+SHA256: c07999b5007c95a6712d11162f1020e45472bbf817fbf3b4cff91dafe0f8be26
 Section: System
 Description: KidsAuto iOS v3, Support from version 12.x - 15.8.x
 Tag: role::hacker
